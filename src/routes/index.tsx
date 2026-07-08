@@ -265,7 +265,7 @@ function TrainingCell() {
       <div className="relative mx-auto max-w-7xl px-6">
         <div className="flex flex-wrap items-end justify-between gap-6 mb-14">
           <div>
-            <div className="text-stencil text-xs text-accent mb-3 tracking-widest">// 02.5 — DURBAN TRAINING CELL</div>
+            <div className="text-stencil text-xs text-accent mb-3 tracking-widest">// 02.5 — KZN SECURITY TRAINING</div>
             <h2 className="text-4xl md:text-6xl">
               <span className="gold-text">STRATEGIC COMBAT</span><br/>
               <span className="text-foreground">& </span><span className="cyan-text">SURVIVAL</span>
@@ -274,8 +274,8 @@ function TrainingCell() {
           </div>
           <p className="max-w-md text-muted-foreground">
             A cohesive system bridging empty-hand defence, blade work and tactical firearms
-            deployment under extreme stress. Real-world geometry. No sport rules. Direct
-            threat elimination.
+            deployment under extreme stress. Real-world geometry. Built for operational
+            reality, not the arena.
           </p>
         </div>
 
