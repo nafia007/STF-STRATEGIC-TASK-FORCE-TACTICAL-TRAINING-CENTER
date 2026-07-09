@@ -47,7 +47,7 @@ function Nav() {
         <div className="hidden md:flex items-center gap-8 text-sm uppercase tracking-widest">
           <a href="#mission" className="hover:text-accent transition">Mission</a>
           <a href="#programs" className="hover:text-accent transition">Programs</a>
-          <a href="#cell" className="hover:text-accent transition">Cell</a>
+          <a href="#training" className="hover:text-accent transition">Training</a>
           <a href="#operators" className="hover:text-accent transition">Operators</a>
           <a href="#field" className="hover:text-accent transition">Field</a>
           <a href="#dossier" className="hover:text-accent transition">Dossier</a>
@@ -255,9 +255,9 @@ function Programs() {
   );
 }
 
-function TrainingCell() {
+function Training() {
   return (
-    <section id="cell" className="relative py-32 overflow-hidden bg-background">
+    <section id="training" className="relative py-32 overflow-hidden bg-background">
       <div className="absolute inset-0 tactical-grid opacity-20" />
       <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-primary/60 to-transparent" />
       <div className="absolute -left-40 top-40 h-[420px] w-[420px] rounded-full bg-primary/10 blur-[140px]" />
@@ -635,7 +635,7 @@ function Index() {
       <Hero />
       <Mission />
       <Programs />
-      <TrainingCell />
+      <Training />
       <FieldVideo />
       <Operators />
       <Dossier />
