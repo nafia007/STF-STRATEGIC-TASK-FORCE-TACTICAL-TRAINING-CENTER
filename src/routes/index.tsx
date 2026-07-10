@@ -489,7 +489,7 @@ function Operators() {
             </p>
             <p className="text-muted-foreground leading-relaxed mb-6">
               <span className="text-foreground">Tactical Tracking</span> — extensive study of the published
-              works and methodologies of David Scott-Donelan, John D. Hurth, David Diaz and Fernando Moreira.
+              works and methodologies of David Scott-Donelan, John D. Hurth, David Diaz, Fernando Moreira and Kyt Lyn Walken.
             </p>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-stencil">
               {CREDENTIALS.map(({k,v}) => (
