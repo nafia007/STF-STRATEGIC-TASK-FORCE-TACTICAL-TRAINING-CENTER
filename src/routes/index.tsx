@@ -472,11 +472,24 @@ function Operators() {
               cooperation with the NIU, PPU, Dog Unit and Flying Squad.
             </p>
             <p className="text-muted-foreground leading-relaxed mb-6">
-              <span className="text-accent">Master Guardian</span> of the Piper Knife System under
-              founder Nigel February — one of only <span className="text-foreground">10 worldwide</span>
-              (Reference 012-23-99). 3rd Dan Shotokan Black Belt. Full instructor in Ronin Silat.
-              20 years in Systema (Russian Special Forces method), Jeet Kune Do, Muay Thai & MMA.
-              Tactical tracking under David Scott-Donelan, John D. Hurth and David Diaz.
+              <span className="text-accent">Master Guardian</span> of the
+              Piper Knife System under founder Nigel February — one of only{" "}
+              <span className="text-foreground">10 practitioners worldwide</span> holding this rank
+              (Ref. 012-23-99).
+            </p>
+            <p className="text-muted-foreground leading-relaxed mb-2">
+              <span className="text-foreground">Karate</span> — 3rd Dan Black Belt, Shotokan Karate.
+            </p>
+            <p className="text-muted-foreground leading-relaxed mb-2">
+              <span className="text-foreground">Silat</span> — Full Instructor, Ronin Silat.
+            </p>
+            <p className="text-muted-foreground leading-relaxed mb-2">
+              <span className="text-foreground">Combative Systems</span> (20+ years combined practice) —
+              Systema (Russian Special Forces methodology) · Jeet Kune Do · Muay Thai · Mixed Martial Arts.
+            </p>
+            <p className="text-muted-foreground leading-relaxed mb-6">
+              <span className="text-foreground">Tactical Tracking</span> — extensive study of the published
+              works and methodologies of David Scott-Donelan, John D. Hurth, David Diaz and Fernando Moreira.
             </p>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-stencil">
               {CREDENTIALS.map(({k,v}) => (
